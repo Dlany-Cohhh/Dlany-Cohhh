@@ -2,7 +2,7 @@
     <img src="https://count.getloli.com/get/@Dlany-Cohhh.github.readme?theme=gelbooru" style="display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </div>
 
-<img align='right' src='./assets/avatar.png' width='280px' style="border-radius: 16px;">
+<img align='right' src='./assets/chiaki.png' width='300px'>
 
 #### Platforms
 
