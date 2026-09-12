@@ -2,6 +2,12 @@
     <img src="https://count.getloli.com/get/@Dlany-Cohhh.github.readme?theme=gelbooru" style="display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </div>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&size=26&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Dlany+%F0%9F%91%8B;Full-stack+Developer;二次元%E3%81%AF%E7%A7%81%E3%81%AE%E4%BF%A1%E4%BB%B0%E3%81%A7%E3%81%99;Building+cool+stuff+with+code" alt="Typing SVG" />
+  </a>
+</p>
+
 <img align='right' src='./assets/chiaki.png' width='300px'>
 
 #### Platforms
@@ -30,7 +36,12 @@
 
 #### My Coding Project And Language
 
-![Dlany's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Dlany-Cohhh&theme=algolia&show_icons=true)
+<a href="https://github.com/Dlany-Cohhh">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Dlany-Cohhh&theme=algolia&show_icons=true" alt="Dlany's GitHub stats" />
+</a>
+<a href="https://github.com/Dlany-Cohhh">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dlany-Cohhh&layout=compact&theme=algolia&langs_count=8" alt="Top Languages" />
+</a>
 
 <!-- programming tool icons -->
 <div>
@@ -54,3 +65,7 @@
 
 <!-- rainbow divider -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E4%BA%8C%E6%AC%A1%E5%85%83%E3%81%AF%E7%A7%81%E3%81%AE%E4%BF%A1%E4%BB%B0%E3%81%A7%E3%81%99-FF69B4?style=for-the-badge" alt="信仰" />
+</p>
