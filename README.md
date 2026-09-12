@@ -1,8 +1,8 @@
 <div>
-    <img src="https://count.getloli.com/get/@Dlany-Cohhh.github.readme?theme=asoul" style="display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+    <img src="https://count.getloli.com/get/@Dlany-Cohhh.github.readme?theme=gelbooru" style="display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </div>
 
-<img align='right' src='https://avatars.githubusercontent.com/u/179248244?v=4' width='280px' style="border-radius: 16px;">
+<img align='right' src='./assets/avatar.png' width='280px' style="border-radius: 16px;">
 
 #### Platforms
 
